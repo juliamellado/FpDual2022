@@ -11,7 +11,6 @@ public class Main {
 
     public void printMessage(){
         int variableInt = 5;
-
         System.out.println(variableInt);
     }
 
